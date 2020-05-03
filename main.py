@@ -1,3 +1,5 @@
+# test git
+
 from panier import Panier # on importe le composant panier
 from oeuf import OeufChocolat # on import la classe oeuf chocolat
 import pygame # utiliser le module pygame pour faire des jeux avec python
